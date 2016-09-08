@@ -1,6 +1,6 @@
 DCP Orange:
 R 220, G 107, B 39
-#DC6B27
+'#DC6B27'
 
 Site: 
 https://nycplanning.github.io/map-styles/
@@ -17,46 +17,46 @@ https://drive.google.com/file/d/0B5tBIGe_xercQklqbXJvYk1jSnc/view
 
 
 3-class orange
-#fee6ce
-#fdae6b
-#e6550d
+'#fee6ce'
+'#fdae6b'
+'#e6550d'
 
 4-class
-#feedde
-#fdbe85
-#fd8d3c
-#d94701
+'#feedde'
+'#fdbe85'
+'#fd8d3c'
+'#d94701'
 
 5-class
-#feedde
-#fdbe85
-#fd8d3c
-#e6550d
-#a63603
+'#feedde'
+'#fdbe85'
+'#fd8d3c'
+'#e6550d'
+'#a63603'
 
 6-class
-#feedde
-#fdd0a2
-#fdae6b
-#fd8d3c
-#e6550d
-#a63603
+'#feedde'
+'#fdd0a2'
+'#fdae6b'
+'#fd8d3c'
+'#e6550d'
+'#a63603'
 
 7-class
-#feedde
-#fdd0a2
-#fdae6b
-#fd8d3c
-#f16913
-#d94801
-#8c2d04
+'#feedde'
+'#fdd0a2'
+'#fdae6b'
+'#fd8d3c'
+'#f16913'
+'#d94801'
+'#8c2d04'
 
 8-class
-#fff5eb
-#fee6ce
-#fdd0a2
-#fdae6b
-#fd8d3c
-#f16913
-#d94801
-#8c2d04
+'#fff5eb'
+'#fee6ce'
+'#fdd0a2'
+'#fdae6b'
+'#fd8d3c'
+'#f16913'
+'#d94801'
+'#8c2d04'
