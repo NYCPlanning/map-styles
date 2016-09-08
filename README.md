@@ -1,19 +1,19 @@
-**DCP Orange:
+** DCP Orange: **
 
 R 220, G 107, B 39
 
 '#DC6B27'
 
-**Site: 
+** Site: **
 https://nycplanning.github.io/map-styles/
 
-**Instructions for changing color ramp in CartoCSS Wizard:
+** Instructions for changing color ramp in CartoCSS Wizard:**
 https://carto.com/academy/courses/beginners-course/colors-truth-insights/
 
-**ColorBrewer Oranges:
+** ColorBrewer Oranges:**
 http://colorbrewer2.org/#type=sequential&scheme=Oranges&n=6
 
-**Stamen Style Guide:
+** Stamen Style Guide:**
 https://drive.google.com/file/d/0B5tBIGe_xercQklqbXJvYk1jSnc/view
 ^ Contains additional colors that can be used for categories
 
